@@ -1,6 +1,7 @@
+Nota: al descargar o clonar el archivo dara un zip y al descompirmirlo dara otro que es donde estaran todos los archivos del proyecto
 Para hacer este proyecto de laravel se utilizo laragon
 
-**# 1 paso descragar laragon **
+**# 1 paso descargar laragon **
 - Visita la página web oficial de Laragon: https://laragon.org/download/index.html
 - descargar esta version: Download Laragon - Full (173 MB)
 
