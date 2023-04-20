@@ -17,16 +17,18 @@ Nota: al descargar o clonar el archivo dara un zip y al descompirmirlo dara otro
 
 **Nota**: puedes ejecutar el proyecto una vez Instaladas las dependencias con el comando **php artisan serve**, si no funciona sigue los pasos: 
 
-**# 3 migraciones **<hr>
+#3 migraciones <hr>
 - Ejecuta el comando **php artisan migrate** para correr las migraciones de Laravel y crear las tablas necesarias en la base de datos.
 - Te pedira crear la tabla dale yes
 
-**# 4 crear seeders **<hr>
+#4 crear seeders<hr>
+
 Ejecuta los siguentes comandos en la terminal para los seeders
 - **php artisan db:seed Databaseseeder**
 
-**# 5 Ver los status de nuestras tablas **<hr>
+#5 Ver los status de nuestras tablas <hr>
+
 - **php artisan migrate:status**
 
-**# 6 Hcer los rollback **<hr>
+#6 Hcer los rollback<hr>
 - **php artisan migrate:rollback**
