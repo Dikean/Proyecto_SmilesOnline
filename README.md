@@ -1,3 +1,24 @@
+<div style="background-color: #f5f5f5; padding: 10px; border: 1px solid #ccc; border-radius: 4px; font-family: 'Courier New', monospace;">
+  <button onclick="copyCode()" style="background-color: #4CAF50; color: white; padding: 5px 10px; border: none; border-radius: 4px; cursor: pointer;">Seleccionar todo</button>
+  <pre><code id="code" style="font-size: 14px;">
+// Aquí puedes escribir tu código
+  </code></pre>
+</div>
+
+<script>
+function copyCode() {
+  var code = document.getElementById("code");
+  var selection = window.getSelection();
+  var range = document.createRange();
+  range.selectNodeContents(code);
+  selection.removeAllRanges();
+  selection.addRange(range);
+  document.execCommand("copy");
+  alert("Código copiado al portapapeles");
+}
+</script>
+
+
 Nota: al descargar o clonar el archivo dara un zip y al descompirmirlo dara otro que es donde estaran todos los archivos del proyecto
 
 **Para hacer este proyecto de laravel se utilizo laragon**
