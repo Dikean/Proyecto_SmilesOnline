@@ -36,4 +36,4 @@ Rama a calificar
 
 # # 7 Postman Consumir servicios<hr>
 - descarga el drive y importalo en postman para tener las collecciones
-https://drive.google.com/file/d/1ab9mx-BbazYzok3CMHiMO9owwzsVFOGR/view?usp=share_lin
+https://drive.google.com/file/d/1sYaaOt9-7tGsdLw4XxMd2c9o_o1jlOv7/view?usp=share_link
