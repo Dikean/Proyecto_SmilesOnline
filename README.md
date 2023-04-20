@@ -33,3 +33,7 @@
 
 # # 6 Hacer los rollback<hr>
 <pre><code>php artisan migrate:rollback</code></pre>
+
+# # 7 Postman Consumir servicios<hr>
+- descarga el drive y importalo en postman para tener las collecciones
+https://drive.google.com/file/d/1ab9mx-BbazYzok3CMHiMO9owwzsVFOGR/view?usp=share_link
