@@ -2,7 +2,7 @@ Nota: al descargar o clonar el archivo dara un zip y al descompirmirlo dara otro
 
 **Para hacer este proyecto de laravel se utilizo laragon**
 
-** # 1 paso descargar laragon **<hr>
+ # 1 paso descargar laragon <font size="+2">Texto más grande</font><hr>
 
 - Visita la página web oficial de Laragon: https://laragon.org/download/index.html
 - descargar esta version: Download Laragon - Full (173 MB)
