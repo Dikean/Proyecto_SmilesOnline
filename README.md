@@ -18,9 +18,9 @@
   - <pre><code> npm install </code></pre>
 
 # # 3 Migraciones <hr>
-- Ejecuta el comando **php artisan migrate** para correr las migraciones de Laravel y crear las tablas necesarias en la base de datos
+- Ejecuta el comando para correr las migraciones de Laravel y crear las tablas necesarias en la base de datos
 
- - <pre><code> composer install</code></pre>
+ - <pre><code> php artisan migrate</code></pre>
  
 - Te pedira crear la tabla dale yes
 
