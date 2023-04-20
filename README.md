@@ -1,17 +1,11 @@
 
 
+# #1 Descargar Laragon<hr>
 
-Nota: al descargar o clonar el archivo dara un zip y al descompirmirlo dara otro que es donde estaran todos los archivos del proyecto
-
-**Para hacer este proyecto de laravel se utilizo laragon**
-
-  #1 paso descargar laragon <hr>
-
-- Visita la página web oficial de Laragon: https://laragon.org/download/index.html
-- descargar esta version: Download Laragon - Full (173 MB)
+- Visita la página web oficial de Laragon: https://laragon.org/download/index.html y descargar la version: **Download Laragon - Full (173 MB)**
 
 
-**# 2 despues de instalo haz los siguentes pasos**<hr>
+# 2 despues de instalo haz los siguentes pasos<hr>
 - Descarga o clona el proyecto desde Github a la carpeta www de Laragon.
 - Abre Laragon y asegúrate de que el servidor Apache y MySQL estén activados sino dale en **Iniciar todo** que esta en la **Parte Inferior izquierda**.
 - Abre una terminal en la carpeta del proyecto dentro de la carpeta www de Laragon o alli mismo donde dice **Terminal** al lado del **root**.
