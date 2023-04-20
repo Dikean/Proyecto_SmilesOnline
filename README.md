@@ -24,11 +24,11 @@ Nota: al descargar o clonar el archivo dara un zip y al descompirmirlo dara otro
 #4 crear seeders<hr>
 
 Ejecuta los siguentes comandos en la terminal para los seeders
-- **php artisan db:seed Databaseseeder**
+-**php artisan db:seed Databaseseeder**
 
 #5 Ver los status de nuestras tablas <hr>
 
-- **php artisan migrate:status**
+-**php artisan migrate:status**
 
 #6 Hcer los rollback<hr>
-- **php artisan migrate:rollback**
+-**php artisan migrate:rollback**
